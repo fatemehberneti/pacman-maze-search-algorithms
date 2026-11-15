@@ -15,14 +15,6 @@ A Python implementation and empirical comparison of classical **Artificial Intel
   * Evaluates algorithm scalability across increasing numbers of generated mazes (1 to 10 mazes)[cite: 13, 14].
   * Generates side-by-side comparison plots for **Average Nodes Explored** and **Average Execution Time (seconds)**[cite: 13, 14].
 
-## Benchmark Results
-
-### Tree Search & A\* (Manhattan vs. Euclidean)
-![Tree Search & A* Benchmark](tree_search_benchmark.jpg)
-
-### Graph Search (BFS, DFS, IDS)
-![Graph Search Benchmark](graph_search_benchmark.jpg)
-
 ## Requirements
 
 * **Python:** 3.8 – 3.14+
